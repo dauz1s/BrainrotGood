@@ -1,2 +1,3 @@
 # BrainrotGood
 BrainrotGoodbot
+BrainrotGood
